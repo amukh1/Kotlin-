@@ -1,0 +1,3 @@
+fun Main() {
+  println("no")
+}
